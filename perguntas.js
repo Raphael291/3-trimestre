@@ -1,12 +1,12 @@
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Geografia',
+    'Qual é a capital da frança',
+    'Paris'
 )
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'História',
+    'Quando foi a indepêndencia do Brasil?',
+    '1822'
 )
 criarCartao(
     'Categoria',
