@@ -1,0 +1,60 @@
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
+criarCartao(
+    'Categoria',
+    'Pergunta',
+    'Resposta'
+)
